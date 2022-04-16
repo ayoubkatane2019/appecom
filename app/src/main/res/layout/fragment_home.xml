@@ -35,7 +35,7 @@
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:fontFamily="@font/amethysta"
-                android:text="Category"
+                android:text="Catégorie"
                 android:textSize="21sp"
                 android:textStyle="bold" />
 
@@ -47,8 +47,8 @@
                 android:layout_weight="1"
                 android:fontFamily="@font/amethysta"
                 android:gravity="end"
-                android:text="See All"
-                android:textColor="@color/pink"
+                android:text="Voir tout"
+                android:textColor="@color/black"
                 android:textSize="18sp"
                 android:textStyle="bold" />
 
@@ -85,7 +85,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="9dp"
                         android:fontFamily="@font/amethysta"
-                        android:text="New Products"
+                        android:text="Nouveaux produits"
                         android:textSize="21sp"
                         android:textStyle="bold" />
 
@@ -94,7 +94,7 @@
                         android:layout_height="wrap_content"
                         android:layout_below="@+id/new_product_name"
                         android:layout_marginLeft="9dp"
-                        android:text="We provide best products." />
+                        android:text="Nous fournissons les meilleurs produits." />
 
                     <TextView
                         android:id="@+id/newProducts_see_all"
@@ -103,8 +103,8 @@
                         android:layout_alignParentEnd="true"
                         android:layout_marginRight="8dp"
                         android:fontFamily="@font/amethysta"
-                        android:text="See All"
-                        android:textColor="@color/pink"
+                        android:text="Voir tout"
+                        android:textColor="@color/black"
                         android:textSize="18sp"
                         android:textStyle="bold" />
                 </RelativeLayout>
@@ -135,7 +135,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="9dp"
                     android:fontFamily="@font/amethysta"
-                    android:text="Popular Products"
+                    android:text="Produits populaires"
                     android:textSize="21sp"
                     android:textStyle="bold" />
 
@@ -144,7 +144,7 @@
                     android:layout_height="wrap_content"
                     android:layout_below="@+id/popular_products"
                     android:layout_marginLeft="9dp"
-                    android:text="We provide best products." />
+                    android:text="Nous fournissons les meilleurs produits." />
 
                 <TextView
                     android:id="@+id/popular_see_all"
@@ -153,8 +153,8 @@
                     android:layout_alignParentEnd="true"
                     android:layout_marginRight="8dp"
                     android:fontFamily="@font/amethysta"
-                    android:text="See All"
-                    android:textColor="@color/pink"
+                    android:text="Voir tout"
+                    android:textColor="@color/black"
                     android:textSize="18sp"
                     android:textStyle="bold" />
             </RelativeLayout>
